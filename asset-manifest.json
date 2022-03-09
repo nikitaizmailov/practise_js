@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.caf625c9.css",
-    "main.js": "/static/js/main.88792c9d.js",
-    "static/js/787.6fc6ed91.chunk.js": "/static/js/787.6fc6ed91.chunk.js",
-    "static/media/maltese.jpeg": "/static/media/maltese.24c19f763298e3b1c85d.jpeg",
-    "index.html": "/index.html",
-    "main.caf625c9.css.map": "/static/css/main.caf625c9.css.map",
-    "main.88792c9d.js.map": "/static/js/main.88792c9d.js.map",
-    "787.6fc6ed91.chunk.js.map": "/static/js/787.6fc6ed91.chunk.js.map"
+    "main.css": "/sorting_algorithms_visualiser/static/css/main.caf625c9.css",
+    "main.js": "/sorting_algorithms_visualiser/static/js/main.c8d0ae2a.js",
+    "static/js/787.6fc6ed91.chunk.js": "/sorting_algorithms_visualiser/static/js/787.6fc6ed91.chunk.js",
+    "static/media/maltese.jpeg": "/sorting_algorithms_visualiser/static/media/maltese.24c19f763298e3b1c85d.jpeg",
+    "index.html": "/sorting_algorithms_visualiser/index.html",
+    "main.caf625c9.css.map": "/sorting_algorithms_visualiser/static/css/main.caf625c9.css.map",
+    "main.c8d0ae2a.js.map": "/sorting_algorithms_visualiser/static/js/main.c8d0ae2a.js.map",
+    "787.6fc6ed91.chunk.js.map": "/sorting_algorithms_visualiser/static/js/787.6fc6ed91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.caf625c9.css",
-    "static/js/main.88792c9d.js"
+    "static/js/main.c8d0ae2a.js"
   ]
 }
